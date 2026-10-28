@@ -1,0 +1,1 @@
+Pon aqui la foto del fundador (gustavo.jpg) y activa FOUNDER_PHOTO en index.html
